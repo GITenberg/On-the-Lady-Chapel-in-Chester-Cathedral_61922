@@ -1,0 +1,30 @@
+_repo: On-the-Lady-Chapel-in-Chester-Cathedral_61922
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Blomfield, George Becher
+    alias: Blomfield, George Becker
+    birthdate: 1801
+    deathdate: 1885
+    gutenberg_agent_id: '51680'
+    url: http://www.gutenberg.org/2009/agents/51680
+description: ''
+gutenberg_issued: '2020-04-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '61922'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Church architecture -- England -- Chester'
+- !lcsh 'Chester Cathedral'
+- !lcc 'DA'
+- !lcsh 'Chester (England) -- Antiquities'
+- !lcsh 'Lady Chapel (Chester Cathedral)'
+- !lcsh 'Sacrament chapels'
+- !lcc 'NA'
+- GITenberg
+title: On the Lady Chapel in Chester Cathedral
+url: http://www.gutenberg.org/ebooks/61922
